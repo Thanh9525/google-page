@@ -84,6 +84,11 @@ body{
     cursor: pointer;
     border-radius: 4px;
 }
+.btn:hover{
+    background-color: #e8e8e8;
+    border: 1px solid #999;
+    transition: 0.3s;
+}
 .footer{
     position: absolute;
     bottom: 0;
